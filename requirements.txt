@@ -1,0 +1,8 @@
+# Requirements for deep learning project
+tensorflow
+numpy==1.26.4  # Pinned for TF 2.15 compatibility
+pandas
+scikit-learn
+tensorboard
+matplotlib
+streamlit
