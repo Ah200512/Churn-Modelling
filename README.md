@@ -43,3 +43,20 @@ The dataset typically contains customer information such as:
 2. Install required libraries:
    ```bash
    pip install -r requirements.txt
+
+Run the main script:
+
+python app.py
+
+Outcomes
+
+Identify customers likely to churn.
+
+Provide actionable strategies to retain them.
+
+Improve customer satisfaction and reduce business losses.
+
+Author
+
+Adithya Harish
+
